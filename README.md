@@ -15,16 +15,6 @@ The app renders a Core Concepts section and an interactive Examples section wher
 
 ## Screenshot
 
-Add a project screenshot to visually showcase the app on GitHub.
-
-1. Create a folder named `docs` at the project root.
-2. Save an image as `screenshot.png` inside `docs`.
-3. The README preview below will automatically load it:
-
-```md
-![React Essentials App Screenshot](./docs/screenshot.png)
-```
-
 ![React Essentials App Screenshot](./docs/screenshot.png)
 
 ## Tech Stack
